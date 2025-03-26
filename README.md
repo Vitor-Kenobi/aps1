@@ -4,8 +4,8 @@
 This project focuses on raising awareness about renewable energy sources and their benefits over fossil fuels. It includes a website built to educate users about sustainable energy options such as solar, wind, and hydroelectric power. The project was developed as part of a supervised activities assignment for the Computer Science course at Universidade Paulista.
 
 <h2>🎮 Features</h2>
-- **Educational Content**: Detailed explanations of renewable energy sources like solar, wind, and hydroelectric power.  
-- **Interactive Website**: A responsive website built with Bootstrap framework.  
+- **Educational Content**: Detailed explanations of renewable energy sources like solar, wind, and hydroelectric power.<br>  
+- **Interactive Website**: A responsive website built with Bootstrap framework.<br>
 - **Sustainable Focus**: Promotes the use of clean energy and highlights its advantages for the environment.  
 
 <h2>🗂️ Project Structure</h2>
